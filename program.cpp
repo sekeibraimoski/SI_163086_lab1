@@ -4,13 +4,16 @@ using namespace std;
 
 void printMyName () {
 	//TODO
-	cout<<"Senaid Ibraimoski";
+	cout<<"Senaid Ibraimoski"<<endl;
 }
 
 void printMyIndex () {
 	//TODO
+	cout<<163086;
 }
 
 int main () {
 	//TODO
+	printMyName();
+	printMyIndex();
 }
